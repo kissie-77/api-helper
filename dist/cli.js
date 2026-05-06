@@ -1,0 +1,2 @@
+#!/usr/bin/env node
+import{Command as r}from"./lib/command.js";import{i18n as o}from"./lib/i18n.js";import{logger as e}from"./utils/logger.js";!async function(){const s=process.argv.slice(2),i=new r;try{await i.execute(s)}catch(r){e.logError("CLI",r),console.error(`${o.t("cli.error_general")}`,r instanceof Error?r.message:String(r)),process.exit(1)}}();

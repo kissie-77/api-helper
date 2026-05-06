@@ -1,0 +1,26 @@
+{
+  "defaultModels": {
+    "haiku": "claude-haiku-4-5-20251001",
+    "sonnet": "claude-sonnet-4-6",
+    "opus": "claude-opus-4-6",
+    "reasoning": "claude-opus-4-6"
+  },
+  "presets": [
+    {
+      "name": "preset.claude_mix",
+      "recommended": true,
+      "models": {
+        "haiku": "claude-haiku-4-5-20251001",
+        "sonnet": "claude-sonnet-4-6",
+        "opus": "claude-opus-4-6",
+        "reasoning": "claude-opus-4-6"
+      }
+    },
+    { "name": "preset.minimax_m25", "model": "MiniMax-M2.5" },
+    { "name": "preset.minimax_m27", "model": "MiniMax-M2.7" },
+    { "name": "preset.gpt54", "model": "gpt-5.4" },
+    { "name": "preset.kimi_k25", "model": "kimi-k2.5" },
+    { "name": "preset.qwen36_plus", "model": "qwen3.6-plus" },
+    { "name": "preset.glm5", "model": "glm-5" }
+  ]
+}

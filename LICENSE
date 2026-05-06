@@ -1,0 +1,25 @@
+# Proprietary Software License
+
+Copyright (c) 2024 VibeAPI. All rights reserved.
+
+This software and associated documentation files (the "Software") are proprietary and confidential.
+
+## Restrictions
+
+1. **No Redistribution**: You may not redistribute, sublicense, or transfer the Software to any third party.
+2. **No Modification**: You may not modify, adapt, or create derivative works based on the Software.
+3. **No Reverse Engineering**: You may not reverse engineer, decompile, or disassemble the Software.
+4. **Usage Rights**: Usage rights are granted only through official channels (npm installation).
+
+## Permitted Use
+
+- Installation via npm/npx for personal or commercial use
+- Usage as intended by the Software's functionality
+
+## Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+## Contact
+
+For licensing inquiries: https://www.vibeapi.cn/
