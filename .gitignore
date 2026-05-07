@@ -1,3 +1,9 @@
 node_modules/
 package-lock.json
 *.tgz
+.chelper/
+.claude/
+.claude.json
+config.yaml
+secrets.enc
+*.enc
